@@ -3,8 +3,8 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 [project]
 name = "molten-salt-reactor-corrosion-model"
-version = "0.2.0"
-description = "Reproducible reduced-order model and uncertainty scenarios for molten-salt reactor corrosion and tracer transport"
+version = "0.4.0"
+description = "Reproducible reduced-order molten-salt corrosion, tracer, and idealized spatial transport model"
 requires-python = ">=3.10"
 dependencies = ["numpy>=1.24", "scipy>=1.10", "pandas>=2.0", "matplotlib>=3.7"]
 [project.optional-dependencies]

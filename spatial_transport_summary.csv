@@ -1,0 +1,8 @@
+quantity,final_value,units
+chromium_mean_mg_L,12.496875520768297,mg/L
+chromium_max_mg_L,12.497829832258654,mg/L
+chromium_min_mg_L,12.495921931912521,mg/L
+CsF_like_receiver_fraction,0.3934693473015721,fraction of initial normalized inventory
+CsI_like_receiver_fraction,0.13929202365428767,fraction of initial normalized inventory
+CsF_like_total_inventory,1.0000000001172489,fraction of initial normalized inventory
+CsI_like_total_inventory,1.0000000001172462,fraction of initial normalized inventory
