@@ -5,7 +5,7 @@ Dataset selected
 McAlpine, S., & Short, M. P. (2020). *Corrosion of commercial alloys in FLiNaK molten salt containing EuF3 and simulant fission product additives*. Journal of Nuclear Materials. https://doi.org/10.1016/j.jnucmat.2020.151994
 
 Open data repository: https://github.com/shortlab/2020-Molten-Salt-Corrosion-FPs  
-Dataset DOI: https://doi.org/10.5281/zenodo.3671744  
+Dataset DOI: [h[ttps://doi.org/10.5281/zenodo.3671744  ](https://zenodo.org/records/3671744)](https://zenodo.org/records/3671744)
 Workbook: `Molten-Salt-Corrosion-Data.xlsx` (10.5 KB; repository description says it contains maximum corrosion-depth data).
 
 The public repository README identifies four tested alloys: Hastelloy N, 316L stainless steel, Ni-201, and Incoloy 800H. It also identifies SEM images, EDX line scans, and EMPA data. The workbook is described as containing the maximum corrosion depth values reported in the paper.
