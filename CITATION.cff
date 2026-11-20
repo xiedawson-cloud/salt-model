@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as an independent computational research project."
+title: "Computational Modelling of Corrosion and Fission Product Transport in Molten Salt Reactors"
+type: software
+version: 0.2.0
+date-released: 2026-11-19
+license: MIT

@@ -1,0 +1,17 @@
+{
+  "temperature_C": 700.0,
+  "duration_h": 500.0,
+  "time_points": 501,
+  "salt_volume_L": 10.0,
+  "alloy_wetted_area_m2": 0.25,
+  "alloy_initial_cr_inventory_mg": 250000.0,
+  "cr_flux_ref_mg_m2_h": 1.0,
+  "activation_energy_kJ_mol": 80.0,
+  "reference_temperature_C": 700.0,
+  "redox_index": 0.0,
+  "redox_sensitivity": 1.0,
+  "csf_transfer_rate_h": 0.001,
+  "csi_transfer_rate_h": 0.0003,
+  "initial_csf_inventory": 1.0,
+  "initial_csi_inventory": 1.0
+}
