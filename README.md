@@ -1,6 +1,6 @@
-# Experimental data acquisition and benchmarking
+Experimental data acquisition and benchmarking
 
-## Dataset selected
+Dataset selected
 
 McAlpine, S., & Short, M. P. (2020). *Corrosion of commercial alloys in FLiNaK molten salt containing EuF3 and simulant fission product additives*. Journal of Nuclear Materials. https://doi.org/10.1016/j.jnucmat.2020.151994
 
@@ -10,7 +10,7 @@ Workbook: `Molten-Salt-Corrosion-Data.xlsx` (10.5 KB; repository description say
 
 The public repository README identifies four tested alloys: Hastelloy N, 316L stainless steel, Ni-201, and Incoloy 800H. It also identifies SEM images, EDX line scans, and EMPA data. The workbook is described as containing the maximum corrosion depth values reported in the paper.
 
-## Acquisition status
+Acquisition status
 
 The source and workbook metadata were verified against the public GitHub repository and Zenodo record. The workbook's binary contents could not be downloaded into this execution environment, so **no experimental numeric rows have been transcribed or analyzed here**. Do not represent the current package as containing the raw measurements or a completed numerical benchmark.
 
@@ -20,7 +20,7 @@ Download the workbook from the GitHub repository link above and place it beside 
 
 The Zenodo record provides a versioned archival deposit and DOI.
 
-## Compatibility and limits
+Compatibility and limits
 
 The workbook reports maximum corrosion depth. The current model predicts dissolved chromium concentration and normalized tracer transport. These are different observables.
 
@@ -32,7 +32,7 @@ Therefore:
 - The published experiment can support material/condition-specific corrosion-depth benchmarking once the workbook and matching test metadata are extracted.
 - The dataset does not measure the spatial concentration profile around a circulating loop; it cannot validate the model's predicted 12-cell gradients.
 
-## Reproducible workflow
+Reproducible workflow
 
 1. Download the workbook and place it in this directory.
 2. Run `python inspect_dataset.py` to list workbook sheets and export each sheet to CSV.
